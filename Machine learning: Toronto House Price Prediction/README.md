@@ -4,11 +4,11 @@
 
     A webscraper built using Selenium and Pandas in python. This scraper performs the following tasks:
 
-    - navigates to the toronto real estate market page on [REALTOR.ca](https://www.realtor.ca/).
-    - filters results for only houses.
-    - collects specific information about each listing on the page.
-    - handles pagination automatically to prevent manual intervention.
-    - creates a dataframe to store listing information
+    1. navigates to the toronto real estate market page on [REALTOR.ca](https://www.realtor.ca/).
+    2. filters results for only houses.
+    3. collects specific information about each listing on the page.
+    4. handles pagination automatically to prevent manual intervention.
+    5. creates a dataframe to store listing information
 
 ## get_data_singular
     

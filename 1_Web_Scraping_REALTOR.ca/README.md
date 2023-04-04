@@ -13,4 +13,8 @@
 ## get_data_singular
     
     This scraper does everything in the original scraper but is not as robust.
-    Manual intervention is needed to go from page to page because I could afford services that resolve captchas.
+    Manual intervention is needed to go from page to page because I could not afford services that resolve captchas.
+
+## Listings*
+
+    All listings csv files are the result of putting all the data collected into dataframes for use in future projects.

@@ -1,11 +1,22 @@
-#  Project Overview
+#  Air Quality In Lagos
 
-    This project examines air quality data from Nairobi, Lagos, and Dar es Salaam. Then a time series model will be built to predict PM 2.5 readings throughout the day.
+## Overview
+
+    This project examines air quality data from Victoria Island, Lagos. Then a time series model will be built to predict PM 2.5 readings throughout the day.
 
     Focus Points:
 
-    1. querying a MongoDB database.
-    2. preparing time series data for analysis.
-    3. building an autoregression model.
-    4. model improvement through hyperparameter tuning.
+    1. Querying a MongoDB database.
+    2. Processing time series data for analysis.
+    3. Exploring time series data
+    3. Building an autoregression model.
+    4. Model improvement through hyperparameter tuning.
+
+## .zip* file
+
+    The compressed file contains all the air quality data from January to December 2018. The original source of the data is [openAfrica](https://africaopendata.org/dataset/sensorsafrica-airquality-archive-victoria-island-lagos). The data was imported into a mongoDB database and then queried.
+
+## Notebook
+
+    The jupyter notebook contains all the code used to execute the entire project. 
     

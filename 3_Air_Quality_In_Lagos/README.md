@@ -20,3 +20,6 @@
 
     The jupyter notebook contains all the code used to execute the entire project. 
     
+## Time_series_plot
+
+    A seved picture of the final time series prediction of the project
